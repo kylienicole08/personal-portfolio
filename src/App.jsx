@@ -20,7 +20,7 @@ function App() {
                         <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                             <i className="fa fa-bars"></i>
                         </button>
-                        <a className="navbar-brand" href="index.html">browny</a>
+                        <a className="navbar-brand" href="index.html">One's Own</a>
                     </div>{/*/.navbar-header*/}
                     {/* End Header Navigation */}
 
@@ -30,10 +30,7 @@ function App() {
                         <li className=" smooth-menu active"></li>
                             <li className=" smooth-menu"><a href="#education">education</a></li>
                             <li className="smooth-menu"><a href="#skills">skills</a></li>
-                            <li className="smooth-menu"><a href="#experience">experience</a></li>
-                            <li className="smooth-menu"><a href="#profiles">profile</a></li>
                             <li className="smooth-menu"><a href="#portfolio">portfolio</a></li>
-                            <li className="smooth-menu"><a href="#clients">clients</a></li>
                             <li className="smooth-menu"><a href="#contact">contact</a></li>
                         </ul>{/*/.nav */}
                     </div>{/* /.navbar-collapse */}
@@ -53,9 +50,9 @@ function App() {
           <div className="row">
             <div className="col-md-12 text-center">
               <div className="header-text">
-                <h2>hi <span>,</span> i am <br /> browny <br /> star <span>.</span>   </h2>
-                <p>ui/ux designer and web developer</p>
-                <a href="assets/download/browney.txt" download>download resume</a>
+                <h2>Hi! i am <br /> <span>kylie</span>   </h2>
+                <p>your personal capcut editor</p>
+                <a href="assets/download/resume (2).pdf" download>download resume (PDF)</a>
               </div>{/*/.header-text*/}
             </div>{/*/.col*/}
           </div>{/* /.row*/}
@@ -75,28 +72,28 @@ function App() {
               <div className="col-sm-6">
                 <div className="single-about-txt">
                   <h3>
-                    I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.
+                    Hello! I'm Kylie Nicole Luzon, a creative video editor specializing in crafting visually stunning narratives that captivate audiences. Based in Apalit Pampanga, I utilize Capcut to bring my editing projects to life, leveraging its powerful features to enhance storytelling through video.
                   </h3>
                   <p>
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspi unde omnis iste natus error sit voluptatem accusantium doloremque lauda ntium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam vo luptatem quia voluptas sit aspernatur aut odit aut fugit,
+                    My passion for video editing began with when my dorm mate invite me to join on her agency. At first I hesitate to join because I don't have a background in editing, but to her perseverance on me I joined on her agency. Since then, I have developed a diverse skill set that includes cutting, color grading, and sound design. CapCut has been instrumental in my growth, offering intuitive tools that allow me to experiment and refine my craft.
                   </p>
                   <div className="row">
                     <div className="col-sm-4">
                       <div className="single-about-add-info">
                         <h3>phone</h3>
-                        <p>987-123-6547</p>
+                        <p>+63-966-956-2783</p>
                       </div>
                     </div>
                     <div className="col-sm-4">
                       <div className="single-about-add-info">
                         <h3>email</h3>
-                        <p>browny@info.com</p>
+                        <p>kylieluzon@gmail.com</p>
                       </div>
                     </div>
                     <div className="col-sm-4">
                       <div className="single-about-add-info">
                         <h3>website</h3>
-                        <p>www.brownsine.com</p>
+                        <p>www.kylieluzon.com</p>
                       </div>
                     </div>
                   </div>
@@ -104,7 +101,7 @@ function App() {
               </div>
               <div className="col-sm-offset-1 col-sm-5">
                 <div className="single-about-img">
-                  <img src="assets/images/about/profile_image.jpg" alt="profile_image" />
+                  <img src="assets/images/about/profile.jpg" alt="profile" />
                   <div className="about-list-icon">
                     <ul>
                       <li>
@@ -159,8 +156,8 @@ function App() {
               <div className="col-sm-4">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2008 - 2010</h2>
-                    <h3>master <span>of </span> computer science</h3>
+                    <h2>2015 - 2016</h2>
+                    <h3> Elementary Graduate </h3>
                   </div>{/*/.experience-time*/}
                   <div className="timeline-horizontal-border">
                     <i className="fa fa-circle" aria-hidden="true"></i>
@@ -169,9 +166,9 @@ function App() {
                   <div className="timeline">
                     <div className="timeline-content">
                       <h4 className="title">
-                        university of north carolina
+                        San Roque Elementary School
                       </h4>
-                      <h5>north carolina, USA</h5>
+                      <h5>Brgy. San Roque Mayorga, Leyte</h5>
                       <p className="description">
                         Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
                       </p>
@@ -182,8 +179,8 @@ function App() {
               <div className="col-sm-4">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2004 - 2008</h2>
-                    <h3>bachelor <span>of </span> computer science</h3>
+                    <h2>2021 - 2022</h2>
+                    <h3> High School Graduate </h3>
                   </div>{/*/.experience-time*/}
                   <div className="timeline-horizontal-border">
                     <i className="fa fa-circle" aria-hidden="true"></i>
@@ -192,9 +189,9 @@ function App() {
                   <div className="timeline">
                     <div className="timeline-content">
                       <h4 className="title">
-                        university of north carolina
+                        Mayorga National High School
                       </h4>
-                      <h5>north carolina, USA</h5>
+                      <h5>Poblacion Zone III Mayorga, Leyte</h5>
                       <p className="description">
                         Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
                       </p>
@@ -205,8 +202,8 @@ function App() {
               <div className="col-sm-4">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2004 - 2008</h2>
-                    <h3>bachelor <span>of </span> creative design</h3>
+                    <h2>2023 - 2024</h2>
+                    <h3> College student . . . </h3>
                   </div>{/*/.experience-time*/}
                   <div className="timeline-horizontal-border">
                     <i className="fa fa-circle" aria-hidden="true"></i>
@@ -216,9 +213,9 @@ function App() {
                   <div className="timeline">
                     <div className="timeline-content">
                       <h4 className="title">
-                        university of bolton
+                        La Verdad Christian College
                       </h4>
-                      <h5>bolton, united kingdome</h5>
+                      <h5> Mc Arthur Highway Sampaloc Apalit, Pampanga </h5>
                       <p className="description">
                         Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
                       </p>
@@ -244,18 +241,18 @@ function App() {
                 <div className="col-md-6">
                   <div className="single-skill-content">
                     <div className="barWrapper">
-                      <span className="progressText">adobe photoshop</span>
+                      <span className="progressText">video editor</span>
                       <div className="single-progress-txt">
                         <div className="progress ">
-                          <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style={{}}>
+                          <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="10" aria-valuemax="100" style={{}}>
                               
                           </div>
                         </div>
-                        <h3>90%</h3>	
+                        <h3>80%</h3>	
                       </div>
                     </div>{/* /.barWrapper */}
                     <div className="barWrapper">
-                      <span className="progressText">adobe illustrator</span>
+                      <span className="progressText">drawing</span>
                       <div className="single-progress-txt">
                         <div className="progress ">
                           <div className="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style={{}}>
@@ -266,25 +263,25 @@ function App() {
                       </div>
                     </div>{/* /.barWrapper */}
                     <div className="barWrapper">
-                      <span className="progressText">adobe after effects</span>
+                      <span className="progressText">design</span>
                       <div className="single-progress-txt">
                         <div className="progress ">
-                          <div className="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style={{}}>
+                          <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style={{}}>
                             
                           </div>
                         </div>
-                        <h3>97%</h3>	
+                        <h3>90%</h3>	
                       </div>
                     </div>{/* /.barWrapper */}
                     <div className="barWrapper">
                       <span className="progressText">sketch</span>
                       <div className="single-progress-txt">
                         <div className="progress ">
-                          <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style={{}}>
+                          <div className="progress-bar" role="progressbar" aria-valuenow="87" aria-valuemin="10" aria-valuemax="100" style={{}}>
                               
                           </div>
                         </div>
-                        <h3>90%</h3>	
+                        <h3>87%</h3>	
                       </div>
                     </div>{/* /.barWrapper */}
                   </div>
@@ -295,15 +292,15 @@ function App() {
                       <span className="progressText">html 5</span>
                       <div className="single-progress-txt">
                         <div className="progress ">
-                          <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style={{}}>
+                          <div className="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="10" aria-valuemax="100" style={{}}>
                             
                           </div>
                         </div>
-                        <h3>90%</h3>	
+                        <h3>20%</h3>	
                       </div>
                     </div>{/* /.barWrapper */}
                     <div className="barWrapper">
-                      <span className="progressText">css 3 animation</span>
+                      <span className="progressText">animation drawing</span>
                       <div className="single-progress-txt">
                         <div className="progress ">
                           <div className="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style={{}}>
@@ -317,11 +314,11 @@ function App() {
                       <span className="progressText">communication</span>
                       <div className="single-progress-txt">
                         <div className="progress ">
-                          <div className="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style={{}}>
+                          <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style={{}}>
                             
                           </div>
                         </div>
-                        <h3>97%</h3>	
+                        <h3>90%</h3>	
                       </div>
                     </div>{/* /.barWrapper */}
                     <div className="barWrapper">
@@ -344,312 +341,6 @@ function App() {
       </section>{/*/.skills*/}
       {/*skills end */}
 
-      {/*experience start */}
-      <section id="experience" className="experience">
-        <div className="section-heading text-center">
-          <h2>experience</h2>
-        </div>
-        <div className="container">
-          <div className="experience-content">
-              <div className="main-timeline">
-                <ul>
-                  <li>
-                    <div className="single-timeline-box fix">
-                      <div className="row">
-                        <div className="col-md-5">
-                          <div className="experience-time text-right">
-                            <h2>2018 - Present</h2>
-                            <h3>creative director</h3>
-                          </div>{/*/.experience-time*/}
-                        </div>{/*/.col*/}
-                        <div className="col-md-offset-1 col-md-5">
-                          <div className="timeline">
-                            <div className="timeline-content">
-                              <h4 className="title">
-                                <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                                hoplony tech limited
-                              </h4>
-                              <h5>newyork, USA</h5>
-                              <p className="description">
-                                Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
-                              </p>
-                            </div>{/*/.timeline-content*/}
-                          </div>{/*/.timeline*/}
-                        </div>{/*/.col*/}
-                      </div>
-                    </div>{/*/.single-timeline-box*/}
-                  </li>
-
-                  <li>
-                    <div className="single-timeline-box fix">
-                      <div className="row">
-                        <div className="col-md-offset-1 col-md-5 experience-time-responsive">
-                          <div className="experience-time">
-                            <h2>
-                              <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                              2016 - 2018
-                            </h2>
-                            <h3>associate design director</h3>
-                          </div>{/*/.experience-time*/}
-                        </div>{/*/.col*/}
-                        <div className="col-md-5">
-                          <div className="timeline">
-                            <div className="timeline-content text-right">
-                              <h4 className="title">
-                                hoplony tech limited
-                              </h4>
-                              <h5>newyork, USA</h5>
-                              <p className="description">
-                                Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
-                              </p>
-                            </div>{/*/.timeline-content*/}
-                          </div>{/*/.timeline*/}
-                        </div>{/*/.col*/}
-                        <div className="col-md-offset-1 col-md-5 experience-time-main">
-                          <div className="experience-time">
-                            <h2>
-                              <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                              2016 - 2018
-                            </h2>
-                            <h3>associate design director</h3>
-                          </div>{/*/.experience-time*/}
-                        </div>{/*/.col*/}
-                      </div>
-                    </div>{/*/.single-timeline-box*/}
-                  </li>
-
-                  <li>
-                    <div className="single-timeline-box fix">
-                      <div className="row">
-                        <div className="col-md-5">
-                          <div className="experience-time text-right">
-                            <h2>2013 - 2016</h2>
-                            <h3>senior UI/UX designer</h3>
-                          </div>{/*/.experience-time*/}
-                        </div>{/*/.col*/}
-                        <div className="col-md-offset-1 col-md-5">
-                          <div className="timeline">
-                            <div className="timeline-content">
-                              <h4 className="title">
-                                <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                                hoplony tech limited
-                              </h4>
-                              <h5>newyork, USA</h5>
-                              <p className="description">
-                                Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
-                              </p>
-                            </div>{/*/.timeline-content*/}
-                          </div>{/*/.timeline*/}
-                        </div>{/*/.col*/}
-                      </div>
-                    </div>{/*/.single-timeline-box*/}
-                  </li>
-
-                  <li>
-                    <div className="single-timeline-box fix">
-                      <div className="row">
-                        <div className="col-md-offset-1 col-md-5 experience-time-responsive">
-                          <div className="experience-time">
-                            <h2>
-                              <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                              2012 - 2013
-                            </h2>
-                            <h3>UI/UX designer</h3>
-                          </div>{/*/.experience-time*/}
-                        </div>{/*/.col*/}
-                        <div className="col-md-5">
-                          <div className="timeline">
-                            <div className="timeline-content text-right">
-                              <h4 className="title">
-                                hoplony tech limited
-                              </h4>
-                              <h5>newyork, USA</h5>
-                              <p className="description">
-                                Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
-                              </p>
-                            </div>{/*/.timeline-content*/}
-                          </div>{/*/.timeline*/}
-                        </div>{/*/.col*/}
-                        <div className="col-md-offset-1 col-md-5 experience-time-main">
-                          <div className="experience-time">
-                            <h2>
-                              <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                              2012 - 2013
-                            </h2>
-                            <h3>UI/UX designer</h3>
-                          </div>{/*/.experience-time*/}
-                        </div>{/*/.col*/}
-                      </div>
-                    </div>{/*/.single-timeline-box*/}
-                  </li>
-
-                  <li>
-                    <div className="single-timeline-box fix">
-                      <div className="row">
-                        <div className="col-md-5">
-                          <div className="experience-time text-right">
-                            <h2>2010 - 2012</h2>
-                            <h3>frontend developer</h3>
-                          </div>{/*/.experience-time*/}
-                        </div>{/*/.col*/}
-                        <div className="col-md-offset-1 col-md-5">
-                          <div className="timeline">
-                            <div className="timeline-content">
-                              <h4 className="title">
-                                <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                                hoplony tech limited
-                              </h4>
-                              <h5>newyork, USA</h5>
-                              <p className="description">
-                                Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
-                              </p>
-                            </div>{/*/.timeline-content*/}
-                          </div>{/*/.timeline*/}
-                        </div>{/*/.col*/}
-                      </div>
-                    </div>{/*/.single-timeline-box*/}
-                  </li>
-
-                </ul>
-              </div>{/*.main-timeline*/}
-            </div>{/*.experience-content*/}
-        </div>
-
-      </section>{/*/.experience*/}
-      {/*experience end */}
-
-      {/*profiles start */}
-      <section id="profiles" className="profiles">
-        <div className="profiles-details">
-          <div className="section-heading text-center">
-            <h2>profiles</h2>
-          </div>
-          <div className="container">
-            <div className="profiles-content">
-              <div className="row">
-                <div className="col-sm-3">
-                  <div className="single-profile">
-                    <div className="profile-txt">
-                      <a href=""><i className="flaticon-themeforest"></i></a>
-                      <div className="profile-icon-name">themeforest</div>
-                    </div>
-                    <div className="single-profile-overlay">
-                      <div className="profile-txt">
-                        <a href=""><i className="flaticon-themeforest"></i></a>
-                        <div className="profile-icon-name">themeforest</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-sm-3">
-                  <div className="single-profile">
-                    <div className="profile-txt">
-                      <a href=""><i className="flaticon-dribbble"></i></a>
-                      <div className="profile-icon-name">dribbble</div>
-                    </div>
-                    <div className="single-profile-overlay">
-                      <div className="profile-txt">
-                        <a href=""><i className="flaticon-dribbble"></i></a>
-                        <div className="profile-icon-name">dribbble</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-sm-3">
-                  <div className="single-profile">
-                    <div className="profile-txt">
-                      <a href=""><i className="flaticon-behance-logo"></i></a>
-                      <div className="profile-icon-name">behance</div>
-                    </div>
-                    <div className="single-profile-overlay">
-                      <div className="profile-txt">
-                        <a href=""><i className="flaticon-behance-logo"></i></a>
-                        <div className="profile-icon-name">behance</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-sm-3">
-                  <div className="single-profile profile-no-border">
-                    <div className="profile-txt">
-                      <a href=""><i className="flaticon-github-logo"></i></a>
-                      <div className="profile-icon-name">github</div>
-                    </div>
-                    <div className="single-profile-overlay">
-                      <div className="profile-txt">
-                        <a href=""><i className="flaticon-github-logo"></i></a>
-                        <div className="profile-icon-name">github</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="profile-border"></div>
-              <div className="row">
-                <div className="col-sm-3">
-                  <div className="single-profile">
-                    <div className="profile-txt">
-                      <a href=""><i className="flaticon-flickr-website-logo-silhouette"></i></a>
-                      <div className="profile-icon-name">flickR</div>
-                    </div>
-                    <div className="single-profile-overlay">
-                      <div className="profile-txt">
-                        <a href=""><i className="flaticon-flickr-website-logo-silhouette"></i></a>
-                        <div className="profile-icon-name">flickR</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-sm-3">
-                  <div className="single-profile">
-                    <div className="profile-txt">
-                      <a href=""><i className="flaticon-smug"></i></a>
-                      <div className="profile-icon-name">smungMung</div>
-                    </div>
-                    <div className="single-profile-overlay">
-                      <div className="profile-txt">
-                        <a href=""><i className="flaticon-smug"></i></a>
-                        <div className="profile-icon-name">smungMung</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-sm-3">
-                  <div className="single-profile">
-                    <div className="profile-txt">
-                      <a href=""><i className="flaticon-squarespace-logo"></i></a>
-                      <div className="profile-icon-name">squareSpace</div>
-                    </div>
-                    <div className="single-profile-overlay">
-                      <div className="profile-txt">
-                        <a href=""><i className="flaticon-squarespace-logo"></i></a>
-                        <div className="profile-icon-name">squareSpace</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-sm-3">
-                  <div className="single-profile profile-no-border">
-                    <div className="profile-txt">
-                      <a href=""><i className="flaticon-bitbucket-logotype-camera-lens-in-perspective"></i></a>
-                      <div className="profile-icon-name">bitBucket</div>
-                    </div>
-                    <div className="single-profile-overlay">
-                      <div className="profile-txt">
-                        <a href=""><i className="flaticon-bitbucket-logotype-camera-lens-in-perspective"></i></a>
-                        <div className="profile-icon-name">bitBucket</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </section>{/*/.profiles*/}
-      {/*profiles end */}
-
       {/*portfolio start */}
       <section id="portfolio" className="portfolio">
         <div className="portfolio-details">
@@ -663,15 +354,15 @@ function App() {
 
                   <div className="col-sm-4">
                     <div className="item">
-                      <img src="assets/images/portfolio/p1.jpg" alt="portfolio image"/>
+                      <img src="assets/images/portfolio/k5.jpg" alt="portfolio image"/>
                       <div className="isotope-overlay">
                         <a href="#">
-                          ui/ux design
+                          sketch design
                         </a>
                       </div>{/* /.isotope-overlay */}
                     </div>{/* /.item */}
                     <div className="item">
-                      <img src="assets/images/portfolio/p2.jpg" alt="portfolio image"/>
+                      <img src="assets/images/portfolio/k4.jpg" alt="portfolio image"/>
                       <div className="isotope-overlay">
                         <a href="#">
                           ui/ux design
@@ -682,10 +373,10 @@ function App() {
 
                   <div className="col-sm-4">
                     <div className="item">
-                      <img src="assets/images/portfolio/p3.jpg" alt="portfolio image"/>
+                      <img src="assets/images/portfolio/cc01.jpg" alt="portfolio image"/>
                       <div className="isotope-overlay">
                         <a href="#">
-                          web design
+                          capcut account
                         </a>
                       </div>{/* /.isotope-overlay */}
                     </div>{/* /.item */}
@@ -693,7 +384,7 @@ function App() {
 
                   <div className="col-sm-4">
                     <div className="item">
-                      <img src="assets/images/portfolio/p4.jpg" alt="portfolio image"/>
+                      <img src="assets/images/portfolio/P2.jpg" alt="portfolio image"/>
                       <div className="isotope-overlay">
                         <a href="#">
                           web development
@@ -701,10 +392,10 @@ function App() {
                       </div>{/* /.isotope-overlay */}
                     </div>{/* /.item */}
                     <div className="item">
-                      <img src="assets/images/portfolio/p5.jpg" alt="portfolio image"/>
+                      <img src="assets/images/portfolio/img01.jpg" alt="portfolio image"/>
                       <div className="isotope-overlay">
                         <a href="#">
-                          web development
+                          picture
                         </a>
                       </div>{/* /.isotope-overlay */}
                     </div>{/* /.item */}
@@ -717,56 +408,6 @@ function App() {
 
       </section>{/*/.portfolio*/}
       {/*portfolio end */}
-
-      {/*clients start */}
-      <section id="clients" className="clients">
-        <div className="section-heading text-center">
-          <h2>clients</h2>
-        </div>
-        <div className="clients-area">
-          <div className="container">
-            <div className="owl-carousel owl-theme" id="client">
-              <div className="item">
-                <a href="#">
-                  <img src="assets/images/clients/c1.png" alt="brand-image" />
-                </a>
-              </div>{/*/.item*/}
-              <div className="item">
-                <a href="#">
-                  <img src="assets/images/clients/c2.png" alt="brand-image" />
-                </a>
-              </div>{/*/.item*/}
-              <div className="item">
-                <a href="#">
-                  <img src="assets/images/clients/c3.png" alt="brand-image" />
-                </a>
-              </div>{/*/.item*/}
-              <div className="item">
-                <a href="#">
-                  <img src="assets/images/clients/c4.png" alt="brand-image" />
-                </a>
-              </div>{/*/.item*/}
-              <div className="item">
-                <a href="#">
-                  <img src="assets/images/clients/c5.png" alt="brand-image" />
-                </a>
-              </div>{/*/.item*/}
-              <div className="item">
-                <a href="#">
-                  <img src="assets/images/clients/c6.png" alt="brand-image" />
-                </a>
-              </div>{/*/.item*/}
-              <div className="item">
-                <a href="#">
-                  <img src="assets/images/clients/c7.png" alt="brand-image" />
-                </a>
-              </div>{/*/.item*/}
-            </div>{/*/.owl-carousel*/}
-          </div>{/*/.container*/}
-        </div>{/*/.clients-area*/}
-
-      </section>{/*/.clients*/}
-      {/*clients end */}
 
       {/*contact start */}
       <section id="contact" className="contact">
@@ -821,21 +462,21 @@ function App() {
                 <div className="single-contact-box">
                   <div className="contact-adress">
                     <div className="contact-add-head">
-                      <h3>browny star</h3>
-                      <p>uI/uX designer</p>
+                      <h3>Kylie Nicole Luzon</h3>
+                      <p>Capcut Video Editor</p>
                     </div>
                     <div className="contact-add-info">
                       <div className="single-contact-add-info">
                         <h3>phone</h3>
-                        <p>987-123-6547</p>
+                        <p>+63-966-956-2783</p>
                       </div>
                       <div className="single-contact-add-info">
                         <h3>email</h3>
-                        <p>browny@info.com</p>
+                        <p>kylieluzon@gmail.com</p>
                       </div>
                       <div className="single-contact-add-info">
                         <h3>website</h3>
-                        <p>www.brownsine.com</p>
+                        <p>www.kylieluzon.com</p>
                       </div>
                     </div>
                   </div>{/*/.contact-adress*/}
@@ -862,7 +503,7 @@ function App() {
         <div className="container">
           <div className="hm-footer-copyright text-center">
             <p>
-              &copy; copyright yourname. design and developed by <a href="https://www.themesine.com/">themesine</a>
+              &copy; copyright Kylieluzon. design and developed by <a href="https://www.themesine.com/">themesine</a>
             </p>{/*/p*/}
           </div>{/*/.text-center*/}
         </div>{/*/.container*/}
